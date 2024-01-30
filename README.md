@@ -43,10 +43,12 @@ Para executar este projeto localmente, siga estas etapas:
 5. Execute `ng serve` para iniciar o servidor de desenvolvimento.
 6. Abra seu navegador e acesse `http://localhost:4200`.
 
-## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-Sinta-se à vontade para entrar em contato caso tenha alguma dúvida ou sugestão! 
+Sinta-se à vontade para entrar em contato caso tenha alguma dúvida ou sugestão!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/seu_perfil_aqui](https://www.linkedin.com/in/leonardo-arantes-47639238/)https://www.linkedin.com/in/leonardo-arantes-47639238/)
+
+
