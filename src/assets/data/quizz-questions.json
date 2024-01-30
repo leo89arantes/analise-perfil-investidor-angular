@@ -1,55 +1,127 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"QUESTIONÁRIO DE ANÁLISE DO PERFIL DO INVESTIDOR",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": " Qual a sua faixa etária?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"50 anos ou mais", "alias":"A"},
+        {"id": 2, "name":"Entre 30 e 49 anos", "alias":"B"},
+        {"id": 3, "name":"Abaixo de 30 anos", "alias":"C"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Qual a sua situação atual?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Possuo somente uma fonte de renda, no máximo apenas suficiente para cobrir meus gastos", "alias":"A"},
+        {"id": 2, "name":"Possuo uma ou mais fontes de renda, que me permitem cobrir meus gastos e ainda eventualmente poupar", "alias":"B"},
+        {"id": 3, "name":"Possuo renda que me permite viver confortavelmente e ainda poupar", "alias":"C"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual a principal finalidade de investir em um plano de previdência?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Preservar o patrimônio assumindo um risco menor", "alias":"B"},
+        {"id": 2, "name":"Uma combinação entre preservação do patrimônio e sua valorização", "alias":"B"},
+        {"id": 3, "name":"Maximizar o potencial de ganho assumindo um risco maior", "alias":"C"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Quantos dependentes financeiros você possui?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Mais de 3", "alias":"A"},
+        {"id": 2, "name":"1 ou 2", "alias":"B"},
+        {"id": 3, "name":"Nenhum", "alias":"C"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Quais investimentos você realizou frequentemente nos últimos 24 meses?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Nunca realizei nenhum tipo de investimento ou apenas em poupança", "alias":"A"},
+        {"id": 2, "name":"Além de poupança, tenho investimentos em CDBs ou fundos de renda fixa", "alias":"B"},
+        {"id": 3, "name":"Além de ter investimentos em poupança, CDBs, fundos de renda fixa, também tenho investimentos em fundos de crédito, e/ou multimercado e/ou de renda variável.", "alias":"C"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual o seu grau de interesse em assuntos ligados à Economia e ao Mercado Financeiro?",
+      "options":[
+        {"id": 1, "name":"Nenhum interesse", "alias":"A"},
+        {"id": 2, "name":"Algum interesse", "alias":"B"},
+        {"id": 3, "name":"Muito interesse", "alias":"C"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Quais os tipos de investimentos que você mais se identifica?",
+      "options":[
+        {"id": 1, "name":"Não me identifico com nenhum investimento", "alias":"A"},
+        {"id": 2, "name":"Poupança e Títulos emitidos com garantia do governo e, eventualmente, fundos de renda fixa", "alias":"B"},
+        {"id": 3, "name":"Além das opções acima, fundos multimercados, fundos de ações e aplicações diretas em ações", "alias":"C"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Em relação aos seus investimentos, qual é a necessidade futura dos seus rendimentos?",
+      "options":[
+        {"id": 1, "name":"Preciso desse dinheiro como complemento de renda", "alias":"A"},
+        {"id": 2, "name":"Possibilidade de elevar meu padrão de vida. Eventualmente, posso precisar utilizar uma parte dele", "alias":"B"},
+        {"id": 3, "name":"Não tenho previsão para utilização desses recursos", "alias":"C"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "Qual é o seu horizonte de investimento?",
+      "options":[
+        {"id": 1, "name":"Até 1 ano", "alias":"A"},
+        {"id": 2, "name":"Entre 2 e 5 anos", "alias":"B"},
+        {"id": 3, "name":"Mais de 5 anos", "alias":"C"}
+      ]
+    },
+    {
+      "id":10,
+      "question": "Sobre os investimentos no Tesouro Direto:",
+      "options":[
+        {"id": 1, "name":"Não tenho nenhum conhecimento sobre o Tesouro Direto", "alias":"A"},
+        {"id": 2, "name":"Tenho conhecimento sobre o assunto, mas ainda não fiz nenhuma aplicação", "alias":"B"},
+        {"id": 3, "name":"Conheço bem o assunto e os riscos", "alias":"C"}
+      ]
+    },
+    {
+      "id":11,
+      "question": "Possui conhecimento sobre o conceito volatilidade?",
+      "options":[
+        {"id": 1, "name":"Não tenho conhecimento deste conceito", "alias":"A"},
+        {"id": 2, "name":"Tenho conhecimento deste conceito e aceito um rendimento com maior variação no curto prazo, buscando no longo prazo um rendimento que apresente melhor retorno", "alias":"B"},
+        {"id": 3, "name":"Conheço este conceito e aceito um rendimento com maior variação, ou até mesmo negativo no curto prazo", "alias":"C"}
+      ]
+    },
+    {
+      "id":12,
+      "question": "Como você reagiria caso o seu investimento tivesse uma perda de 10%?",
+      "options":[
+        {"id": 1, "name":"Ficaria muito preocupado", "alias":"A"},
+        {"id": 2, "name":"Ficaria apreensivo, mas atento aos próximos resultados, avaliando a possibilidade de reversão", "alias":"B"},
+        {"id": 3, "name":"Avalio o resultado no longo prazo e, nesse caso, no curto prazo, não me preocuparia", "alias":"C"}
+      ]
+    },
+    {
+      "id":13,
+      "question": "Sobre os conceitos de marcação a mercado em títulos de renda fixa:",
+      "options":[
+        {"id": 1, "name":"Não tenho nenhum conhecimento sobre este assunto", "alias":"A"},
+        {"id": 2, "name":"Já ouvi sobre o assunto, mas desconheço o impacto deste conceito sobre a rentabilidade dos meus investimentos", "alias":"B"},
+        {"id": 3, "name":"Conheço bem o assunto", "alias":"C"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você possui um perfil conservador!",
+    "B": "Você possui um perfil moderado!",
+    "C": "Você possui um perfil arrojado!"
   }
 }
