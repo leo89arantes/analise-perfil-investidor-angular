@@ -49,6 +49,5 @@ Para executar este projeto localmente, siga estas etapas:
 
 Sinta-se à vontade para entrar em contato caso tenha alguma dúvida ou sugestão!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/seu_perfil_aqui](https://www.linkedin.com/in/leonardo-arantes-47639238/)https://www.linkedin.com/in/leonardo-arantes-47639238/)
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/leonardo-arantes-47639238/)https://www.linkedin.com/in/leonardo-arantes-47639238/)

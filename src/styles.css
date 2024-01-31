@@ -3,9 +3,15 @@
   margin: 0;
   border: 0;
   box-sizing: border-box;
-  color: antiquewhite;
+}
+h2{
+  color: #1c01b1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body{
-  background-color: #1f1147;
-}
+/* .container {
+  background-image: url('/src/assets/imgs/investidores.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+} */
