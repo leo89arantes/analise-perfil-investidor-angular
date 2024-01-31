@@ -18,11 +18,10 @@ Investidores arrojados ou agressivos estão mais dispostos a correr riscos para 
 
 ## Tecnologias Utilizadas
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
+- TypeScript
+- Angular
+- CSS
+- HTML
 
 ## Como Contribuir
 
@@ -50,5 +49,4 @@ Para executar este projeto localmente, siga estas etapas:
 
 Sinta-se à vontade para entrar em contato caso tenha alguma dúvida ou sugestão!  
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/leonardo-arantes-47639238/)https://www.linkedin.com/in/leonardo-arantes-47639238/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/leonardo-arantes-47639238/)
