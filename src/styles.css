@@ -9,9 +9,9 @@ h2{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* .container {
-  background-image: url('/src/assets/imgs/investidores.png');
-  background-size: cover;
+.container {
+  background-image: url('assets/imgs/fundo.avif');
+  /* background-size: cover; */
   background-position: center;
-  background-repeat: no-repeat;
-} */
+  /* background-repeat: no-repeat; */
+}
